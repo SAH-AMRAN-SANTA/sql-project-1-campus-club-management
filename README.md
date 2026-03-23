@@ -29,7 +29,12 @@ This project is a student SQL portfolio project built using MySQL Workbench. It 
 - Students attending events
 
 ## Screenshots
-
+![Tables](screenshots/tables.png)
+![Students Table](screenshots/students_table.png)
+![Join Query](screenshots/join_query.png)
+![Count Query](screenshots/count_query.png)
+![Capacity Query](screenshots/capacity_query.png)
+![View Result](screenshots/view_result.png)
 
 ## Author
 Sah Amran Santa
