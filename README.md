@@ -1,5 +1,4 @@
-A beginner SQL project demonstrating relational database design and data analysis using MySQL.
-
+# A beginner SQL project demonstrating relational database design and data analysis using MySQL.
 # Campus Club & Event Management System (MySQL)
 
 ## Overview
